@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mr.Skylark</h1>
+<h1 align="center">Hello, I'm Mr.Skylark</h1>
 <h3 align="center">A passionate Hack Enthusiast.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsky1ark" alt="mrsky1ark" /></a> </p>
